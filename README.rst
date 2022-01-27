@@ -12,6 +12,9 @@ The three-dimensional (3D) data are permanently stored on the CINES supercomputi
 The regional 3D data used for this study are over 10Tb and will be available upon request.
 Please contact us by raising an `issue <https://github.com/roxyboy/KEflux_IGWs_GRL/issues>`_ on Github.
 
+Further details on the model configuration and preliminary assessment of the
+eNATL60 runs can be found `here <https://zenodo.org/record/4032732>`_.
+
 
 .. |DOI| image:: https://zenodo.org/badge/452623174.svg
    :target: https://zenodo.org/badge/latestdoi/452623174 
